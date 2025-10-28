@@ -38,7 +38,7 @@ Explainable AI Models <i>(under review at npj Digital Medicine)</i> </p>
 
 ### Citation:
 
-<p align="justify">This contribution is fully described in our manuscript, entitled "<i>Article Title]{Trustworthy AI in Predictive Medicine: Cancer Survival Analysis using Ethical-by-Design and
+<p align="justify">This contribution is fully described in our manuscript, entitled "<i>Trustworthy AI in Predictive Medicine: Cancer Survival Analysis using Ethical-by-Design and
 Explainable AI Models</i>", which is currently under review at <a href="https://www.nature.com/npjdigitalmed/" target="_blank">npj Digital Medicine</a>. Any publication or use of this work should cite this manuscript accordingly.</p> 
 
 
