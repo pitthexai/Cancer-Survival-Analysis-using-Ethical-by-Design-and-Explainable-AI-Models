@@ -3,9 +3,7 @@
 ## Table of Contents
 - [Abstract](#abstract)
 - [Directory Descriptions](#directory-descriptions)
-- [The Proposed Computational Pipeline](#the-proposed-computational-pipeline)
-- [KneeXNet-2.5D: App Interface](#kneexnet-25d-app-interface)
-- [The Osteoarthritis Initiative (OAI) Dataset](#the-osteoarthritis-initiative-oai-dataset)
+- [The SEER Dataset](#the-seer-dataset)
 - [Publications](#publications)
 - [Acknowledgments](#acknowledgments)
 - [Citation](#citation)
@@ -25,27 +23,7 @@
 + <p align="justify"><strong>Models:</strong> This directory includes all AI models developed for this study.</p>
 
 
-
-
-
-
-### The proposed computational pipeline
-
-![alt text](https://github.com/pitthexai/Knee_MRI_Segmentation_2.5D/blob/main/Figures/pipeline.png  "The proposed computational pipeline")
-</p>
-<p>
-</p>
-
-### KneeXNet-2.5D: App Interface 
-
-![alt text](https://github.com/pitthexai/Knee_MRI_Segmentation_2.5D/blob/main/Figures/app.png  "The software app")
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=rZD0lrhb_KE" target="_blank">
-     Click here to watch the App demo 
-  </a>
-</p>
-
-### The Osteoarthritis Initiative (OAI) Dataset
+### The SEER Dataset
 <p>The authors thank the <a href="https://nda.nih.gov/oai" target="_blank"> Osteoarthritis Initiative (OAI)</a> for the datasets utilized in this research contribution.</p>
 
 
