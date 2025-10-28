@@ -28,8 +28,7 @@
 
 
 ### Publications
-+ <p align="justify"> Trustworthy AI in Predictive Medicine: Cancer Survival Analysis using Ethical-by-Design and
-Explainable AI Models <i>(under review at npj Digital Medicine)</i> </p>
++ <p align="justify"> Trustworthy AI in Predictive Medicine: Cancer Survival Analysis using Ethical-by-Design and Explainable AI Models <i>(under review at npj Digital Medicine)</i> </p>
 
 
 
