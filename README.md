@@ -22,9 +22,6 @@
 
 ### Directory Descriptions
 + <p align="justify"><strong>Code:</strong> This directory contains all the Python code we implemented to carry out the study.</p>
-+ <p align="justify"><strong>Annotation_guideline:</strong> This directory contains the annotation guidelines developed by domain experts for creating manual segmentation masks. </p>
-+ <p align="justify"><strong>Fully_annotated_dataset:</strong> This directory contains the fully annotated imaging dataset used in this study, featuring the gold-standard manual segmentations.</p>
-+ <p align="justify"><strong>Lightweight_application:</strong> This directory includes a lightweight, interactive software application designed to deploy KneeXNet-2.5D in both clinical and research settings.</p>
 + <p align="justify"><strong>Models:</strong> This directory includes all AI models developed for this study.</p>
 
 
