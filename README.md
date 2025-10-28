@@ -28,16 +28,18 @@
 
 
 ### Publications
-+ <p align="justify"> KneeXNet-2.5D: A Clinically-Oriented and Explainable Deep Learning Framework for MRI-Based Knee Cartilage and Meniscus Segmentation <i>(under review at npj Health Systems)</i> </p>
++ <p align="justify"> Trustworthy AI in Predictive Medicine: Cancer Survival Analysis using Ethical-by-Design and
+Explainable AI Models <i>(under review at npj Digital Medicine)</i> </p>
 
 
 
 ### Acknowledgements
-<p align="justify"> We gratefully acknowledge the Department of Health Information Management at the School of Health and Rehabilitation Sciences (SHRS), University of Pittsburgh, for providing the computational infrastructure and support that enabled the training and evaluation of our deep learning models. Their resources and technical assistance were instrumental in the successful completion of this study. </p>
+<p align="justify"> The authors thank Pittsburgh Cure Sarcoma (PCS). The authors also thank the SEER Program for the datasets used in this research contribution. </p>
 
 ### Citation:
 
-<p align="justify">This contribution is fully described in our manuscript, entitled "<i>KneeXNet-2.5D: A Clinically-Oriented and Explainable Deep Learning Framework for MRI-Based Knee Cartilage and Meniscus Segmentation</i>", which is currently under review at <a href="https://www.nature.com/npjhealthsyst/" target="_blank">npj Health Systems</a>. Any publication or use of this work should cite this manuscript accordingly.</p> 
+<p align="justify">This contribution is fully described in our manuscript, entitled "<i>Article Title]{Trustworthy AI in Predictive Medicine: Cancer Survival Analysis using Ethical-by-Design and
+Explainable AI Models</i>", which is currently under review at <a href="https://www.nature.com/npjdigitalmed/" target="_blank">npj Digital Medicine</a>. Any publication or use of this work should cite this manuscript accordingly.</p> 
 
 
 <p align="center">
