@@ -37,7 +37,7 @@
 
 ### Citation:
 
-<p align="justify">This contribution is fully described in our manuscript, entitled "<i>Trustworthy AI in Predictive Medicine: Cancer Survival Analysis using Ethical-by-Design and Explainable AI Models</i>", which is currently under review at <a href="https://academic.oup.com/jamia" target="_blank">JAMIA</a>. Any publication or use of this work should cite this manuscript accordingly.</p> 
+<p align="justify">This contribution is fully described in our manuscript, entitled "<i>Trustworthy AI in Predictive Medicine: Cancer Survival Analysis using Ethical-by-Design and Explainable AI Models</i>", which is currently under review at <a href="https://academic.oup.com/jamiaopen" target="_blank">JAMIA Open</a>. Any publication or use of this work should cite this manuscript accordingly.</p> 
 
 
 <p align="center">
